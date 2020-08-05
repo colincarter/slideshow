@@ -1,4 +1,4 @@
-# React: Slideshow App
+# HackerRank React: Slideshow App
 
 ## Environment 
 
